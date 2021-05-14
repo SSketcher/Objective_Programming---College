@@ -7,7 +7,7 @@ This repository contain my journey through the C++ course in the college. There 
 * [Topic 1 - Calculator](https://github.com/SSketcher/Objective_Programming---College/blob/main/Topic_1)
 * [Topic 2 - One-way list](https://github.com/SSketcher/Objective_Programming---College/blob/main/Topic_2)
 * [Topic 3 - Files operations](https://github.com/SSketcher/Objective_Programming---College/blob/main/Topic_3)
-* [Topic 4](https://github.com/SSketcher/Objective_Programming---College/blob/main/Topic_4)
+* [Topic 4 - Operators and methods overloading](https://github.com/SSketcher/Objective_Programming---College/blob/main/Topic_4)
 * [Topic 5](https://github.com/SSketcher/Objective_Programming---College/blob/main/Topic_5)
 * [Topic 6](https://github.com/SSketcher/Objective_Programming---College/blob/main/Topic_6)
 * [Topic 7](https://github.com/SSketcher/Objective_Programming---College/blob/main/Topic_7)
